@@ -18,5 +18,5 @@ public class Main{
 		int B = sc.nextInt();
 		sc.close();
 		System.out.println(A-B);
-		}
+		} 
 	}
