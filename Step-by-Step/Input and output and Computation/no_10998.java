@@ -8,7 +8,7 @@ package baekjoon;
 
 출력
 첫째 줄에 A×B를 출력한다.*/
-
+ 
 import java.util.Scanner;
 
 public class Main{
