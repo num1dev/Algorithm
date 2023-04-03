@@ -43,6 +43,7 @@ long long long long long int
 
 'long long long' is too long for GCC라는 에러 메시지와 함께 컴파일되지 않는다.*/
 
+
 import java.util.Scanner;
 
 public class Main {
