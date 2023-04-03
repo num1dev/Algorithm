@@ -1,6 +1,6 @@
 package baekjoon;
 
-/*문제
+/*문제 
 (A+B)%C는 ((A%C) + (B%C))%C 와 같을까?
 
 (A×B)%C는 ((A%C) × (B%C))%C 와 같을까?
