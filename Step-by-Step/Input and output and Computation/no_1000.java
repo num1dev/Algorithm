@@ -7,7 +7,7 @@ package baekjoon;
 첫째 줄에 A와 B가 주어진다. (0 < A, B < 10)
 
 출력
-첫째 줄에 A+B를 출력한다.*/
+첫째 줄에 A+B를 출력한다.*/ 
 
 import java.util.Scanner;
 public class Main {
